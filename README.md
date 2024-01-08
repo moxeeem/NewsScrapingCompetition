@@ -6,6 +6,7 @@ The sites lenta.ru, fontanka.ru, asninfo.ru were used as news sources.
 
 **The result of the competition:**
 accuracy = 0.9285
+
 place - 9
 
 ## Table of Contents
